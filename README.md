@@ -6,7 +6,7 @@
 ##
 
 <a href="https://pokedexgc.netlify.app/" target="_blank">
-<img alt="Pokédex" src="./src/img/pokédex.png" align="center" />
+<img alt="Pokédex" src="./src/img/pokedex.png" align="center" />
 </a>
 
 ## Ferramenteas utilizadas:
